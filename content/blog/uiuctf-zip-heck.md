@@ -2,9 +2,9 @@
 title = "UIUCTF 2020 - Zip Heck (350pts)"
 date = "2020-07-19"
 tags = [
-    "ctf",
-    "forensics"
+    "ctf"
 ]
+aliases = ['/writeups/2020-07-19-uiuctf-zip-heck']
 +++
 
 ### Author: Ptomerty

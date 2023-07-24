@@ -5,6 +5,7 @@ tags = [
     "ctf"
 ]
 aliases = ['/writeups/2020-07-19-uiuctf-zip-heck']
+slug = 'uiuctf-zip-heck'
 +++
 
 ### Author: Ptomerty
